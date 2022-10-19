@@ -28,7 +28,7 @@ else:
     print('Your maths grade is D! ') 
 
 #ENGLISH
-if english > 70:
+if english > 70 :
     print('Your english grade is A. ')
 elif english > 50:
     print('Your english grade is B. ')  
@@ -49,7 +49,7 @@ else:
 
 #grading overall
 print('\n')
-if average_marks > 72:
+if average_marks >= 72:
     print('Your overall grade is A. ')
 elif average_marks > 62:
     print('Your overall grade is B. ')
